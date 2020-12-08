@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/capture-8/RealTimeSwitch/index.js" libraries="{axios, vant, vue}" />
+    <file url="file://$PROJECT_DIR$/capture-8/RealTimeSwitch/time.js" libraries="{axios, vant, vue}" />
+    <file url="file://$PROJECT_DIR$/index.html" libraries="{axios, vant, vue}" />
+    <file url="PROJECT" libraries="{axios, vant, vue}" />
+  </component>
+</project>
